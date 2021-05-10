@@ -17,14 +17,13 @@ This package produces the following:
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
 
-### Build options
+### Building the solution
 
 Next go to your command prompt and execute this code using below command.
 
 ```bash
 gulp clean
 gulp build
-gulp serve
 gulp bundle –ship
 gulp package-solution -ship
 ```
