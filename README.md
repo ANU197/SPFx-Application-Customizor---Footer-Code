@@ -19,8 +19,12 @@ This package produces the following:
 
 ### Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
+Next go to your command prompt and execute this code using below command.
+
+gulp clean
+gulp build
+gulp serve
+gulp bundle –ship
+gulp package-solution -ship
+So you can run the above command as per the order. 
+So once you click on gulp serve, it will open a new page where you have to add your newly added web part or extensions.
