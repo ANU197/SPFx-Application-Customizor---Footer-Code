@@ -31,5 +31,5 @@ gulp package-solution --ship
 
 ### Demo 
 
-![alt text](https://github.com/ANU197/SPFx-Application-Customizor---Footer-Code/blob/main/Result/BlazeFooter.JPG?raw=true)
+![alt text](https://github.com/ANU197/SPFx-Application-Customizor---Footer-Code/blob/main/BlazeFooter.png?raw=true)
 
