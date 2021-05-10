@@ -1,0 +1,1 @@
+# SPFx-Application-Customizor---Footer-Code
