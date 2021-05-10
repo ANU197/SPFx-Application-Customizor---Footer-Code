@@ -21,10 +21,12 @@ This package produces the following:
 
 Next go to your command prompt and execute this code using below command.
 
+```bash
 gulp clean
 gulp build
 gulp serve
 gulp bundle –ship
 gulp package-solution -ship
-So you can run the above command as per the order. 
-So once you click on gulp serve, it will open a new page where you have to add your newly added web part or extensions.
+```
+* So you can run the above command as per the order. 
+* So once you click on gulp serve, it will open a new page where you have to add your newly added web part or extensions.
