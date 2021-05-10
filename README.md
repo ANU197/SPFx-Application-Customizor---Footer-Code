@@ -28,3 +28,8 @@ gulp package-solution --ship
 ```
 * So you can run the above command as per the order. 
 * So once you click on gulp serve, it will open a new page where you have to add your newly added web part or extensions.
+
+### Demo 
+
+![alt text](https://github.com/ANU197/SPFx-Application-Customizor---Footer-Code/blob/main/Result/BlazeFooter.JPG?raw=true)
+
