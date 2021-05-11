@@ -86,7 +86,7 @@ export default class CustomFooterApplicationCustomizer
        
        <div>
        <i class="fa fa-phone ${styles.icon}"></i>
-       <p>+91 7533860042</p>
+       <p>+91 xxxxxxxxxx</p>
        </div>
        
        <div>
